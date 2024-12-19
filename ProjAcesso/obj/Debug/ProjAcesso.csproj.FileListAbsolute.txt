@@ -1,0 +1,7 @@
+C:\Users\Eduardo\source\repos\ProjAcesso\ProjAcesso\bin\Debug\ProjAcesso.exe.config
+C:\Users\Eduardo\source\repos\ProjAcesso\ProjAcesso\bin\Debug\ProjAcesso.exe
+C:\Users\Eduardo\source\repos\ProjAcesso\ProjAcesso\bin\Debug\ProjAcesso.pdb
+C:\Users\Eduardo\source\repos\ProjAcesso\ProjAcesso\obj\Debug\ProjAcesso.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\ProjAcesso\ProjAcesso\obj\Debug\ProjAcesso.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\ProjAcesso\ProjAcesso\obj\Debug\ProjAcesso.exe
+C:\Users\Eduardo\source\repos\ProjAcesso\ProjAcesso\obj\Debug\ProjAcesso.pdb

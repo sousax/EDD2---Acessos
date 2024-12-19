@@ -1,0 +1,9 @@
+[Usuarios]
+1;Eduardo
+[Ambientes]
+1;Principal
+[Logs]
+19/12/2024 19:19:50;1;True
+19/12/2024 19:20:15;1;False
+1;Principal
+[Logs]
